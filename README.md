@@ -107,36 +107,6 @@ alphacore-portfolio-dashboard/
 └── assets/
 ```
 
-## Installation
-
-Clone the repository or download the project folder.
-
-Create a virtual environment:
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-```
-
-On Windows:
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the dashboard:
-
-```bash
-streamlit run app.py
-```
-
 ## Suggested Universe
 
 The default portfolio universe is:
