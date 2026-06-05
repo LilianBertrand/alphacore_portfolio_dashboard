@@ -157,11 +157,6 @@ This creates a diversified multi-asset portfolio with exposure to:
 - Gold
 - Real estate
 
-## Interview Pitch
-
-A concise way to present the project in an interview:
-
-> I developed AlphaCore, a Python-based portfolio optimization and risk analytics dashboard designed to simulate an asset management workflow. The tool imports market data, computes return and risk metrics, builds portfolios using several allocation methods such as minimum volatility, maximum Sharpe, risk parity and simplified Black-Litterman, and compares the results against a benchmark. I also integrated VaR, CVaR, drawdown monitoring, factor exposure analysis and an ESG-constrained optimization module to make the framework closer to a real buy-side investment process.
 
 ## Technical Skills Demonstrated
 
@@ -177,6 +172,6 @@ A concise way to present the project in an interview:
 - Portfolio optimization
 - Risk management
 
-## Important Disclaimer
+## Live DEMO 
+https://alphacoreportfoliodashboard-qzzgmhzpwdtqbwvku7r8ec.streamlit.app/
 
-This project is for educational and professional demonstration purposes only. It does not constitute investment advice. Historical performance and optimization results do not guarantee future returns.
